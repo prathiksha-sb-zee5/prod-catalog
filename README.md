@@ -15,4 +15,4 @@
    5.   git commit -am "add large file"
    6.   git push -u origin main  <if this gives error, run the 7. cmd>
    7.   git lfs migrate import --include="*.json"  <again run 6.>
-4. now large file (which in current size was a json file) will be pushed to repo
+4. now large file (which in current case was a json file) will be pushed to repo
